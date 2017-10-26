@@ -356,7 +356,7 @@ $client->conversations->markConversationAsRead("7890");
  * List counts
  * See more options here: https://developers.intercom.io/reference#getting-counts
  */
-$client->counts->getCounts([])
+$client->counts->getCounts([]);
 ```
 
 ## Notes
